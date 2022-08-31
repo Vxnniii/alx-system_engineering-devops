@@ -1,2 +1,2 @@
-#!/bin/bash
-file /tmp/imamfile
+ #!/bin/bash
+ls -l /tmp/iamafile
