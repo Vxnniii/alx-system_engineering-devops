@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\ awk 'NR==3' 6-third_line"
+echo "\ awk 'NR==3' iacta"
